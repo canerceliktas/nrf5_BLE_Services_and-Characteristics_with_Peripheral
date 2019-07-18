@@ -16,7 +16,7 @@ Other kits, dongles and software versions might work as well, but this will not 
 This project uses these features ; BLE GAP, GATT, Services and Characteristics, Serial UART, SAADC, TIMER and GPIO
 
 
-I used the tutorials on Nordic DevZone. Here is the link https://devzone.nordicsemi.com/nordic/
+I used Advertising, Services, Characteristics and Timer tutorials on Nordic DevZone. Here is the link https://devzone.nordicsemi.com/nordic/
 
 I created two services and three characteristics.
 
