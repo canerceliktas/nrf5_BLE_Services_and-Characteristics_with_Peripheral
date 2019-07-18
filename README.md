@@ -22,10 +22,12 @@ I created two services and three characteristics.
 
 Service_1 = It contains the Analog-Digital conversion results on AIN0.
 
+ * Characteristic_1 = It shows digital output of AIN0 pin.
+ 
 Service_2 = It contains two characteristics. Characteristic_2 and Characteristic_3
 
-Characteristic_2 = It contains CPU Temperature value and notify it.
+ * Characteristic_2 = It contains CPU Temperature value and notify it.
 
-Characteristic_3 = It holds a value(a byte). I used this value for blinking led. (You can use whatever you want)
+ * Characteristic_3 = It holds a value(a byte). I used this value for blinking led. (You can use whatever you want)
 
 The application is built to be used with the official nRF5 SDK, that can be downloaded from http://developer.nordicsemi.com/.
