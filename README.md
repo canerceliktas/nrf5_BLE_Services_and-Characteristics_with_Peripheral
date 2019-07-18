@@ -20,7 +20,7 @@ I used Advertising, Services, Characteristics and Timer tutorials on Nordic DevZ
 
 I created two services and three characteristics.
 
-Service_1 = It contains the Analog-Digital conversion results on AIN0.
+Service_1 = It contains a Characteristic which shows the Analog-Digital conversion results on AIN0.
 
  * Characteristic_1 = It shows digital output of AIN0 pin.
  
