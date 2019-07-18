@@ -1,0 +1,85 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="64" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../../../../components/libraries/util/app_error.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="sizeof " addressText="&amp;"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Application"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Board Support"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_BLE"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Drivers"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Libraries"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_SoftDevice"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="14" name="14" radix="11" linenumber="33" filename="../../../our_service.c"/>
+   <Watchpoint expression="15" name="15" radix="11" linenumber="34" filename="../../../our_service.c"/>
+   <Watchpoint expression="a" name="a" radix="16" linenumber="32" filename="../../../our_service.c"/>
+   <Watchpoint expression="b" name="b" radix="16" linenumber="39" filename="../../../our_service.c"/>
+   <Watchpoint expression="button_value" name="button_value" radix="11" linenumber="834" filename="../../../main.c"/>
+   <Watchpoint expression="data" name="data" radix="16" linenumber="30" filename="../../../our_service.c"/>
+   <Watchpoint expression="evt_id" name="evt_id" radix="16" linenumber="17" filename="../../../our_service.c"/>
+   <Watchpoint expression="nrf_gpio_pin_set" name="nrf_gpio_pin_set" radix="-1" linenumber="42" filename="../../../our_service.c"/>
+   <Watchpoint expression="p_ble_evt" name="p_ble_evt" radix="16" linenumber="26" filename="../../../our_service.c"/>
+   <Watchpoint expression="temperature" name="temperature" radix="10" linenumber="163" filename="../../../main.c"/>
+   <Watchpoint expression="voltage" name="voltage" radix="10" linenumber="168" filename="../../../main.c"/>
+   <Watchpoint expression="c" name="c" radix="2" linenumber="864" filename="../../../main.c"/>
+   <Watchpoint expression="err_code" name="err_code" radix="16" linenumber="297" filename="../../../main.c"/>
+   <Watchpoint expression="0x31" name="0x31" radix="2" linenumber="183" filename="../../../main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="45" y="167" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="143" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../our_service.c" selected="1" top="6" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nrf52-ble-tutorial-characteristic" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Orkun OKUR/Desktop/Nordic/nRF5_SDK_15.0.0_a53641a/nRF5_SDK_15.0.0_a53641a/components/softdevice/common" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
