@@ -13,7 +13,7 @@
 Other kits, dongles and software versions might work as well, but this will not be covered here.
 
 # About this project
-This project using ; BLE GAP, GATT, Services and Characteristics, Serial UART, SAADC, TIMER and GPIO
+This project uses these features ; BLE GAP, GATT, Services and Characteristics, Serial UART, SAADC, TIMER and GPIO
 
 
 I used the tutorials on Nordic DevZone. Here is the link https://devzone.nordicsemi.com/nordic/
