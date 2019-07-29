@@ -7,7 +7,7 @@
 * nRF Connect Bluetooth low energy app for Desktop. You can also use nRF Connect for mobile found in both Google Play on Android and App Store for iPhone.
 * Keil uVision v5.xx or SEGGER Embedded Studio (SES)
 * SDK v15.0.0.
-* SoftDevice S132 V6.x.x
+* SoftDevice S140 V6.x.x
 * Example files.
 
 Other kits, dongles and software versions might work as well, but this will not be covered here.
